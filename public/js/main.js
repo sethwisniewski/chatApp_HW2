@@ -19,7 +19,7 @@
 
   function handleSendMessage(e) {
     e.preventDefault(); //block default behaviour (page refresh)
-    debugger;
+    //debugger;
   }
 
   chatForm.addEventListener('submit', handleSendMessage, false);
